@@ -1,4 +1,5 @@
-layout_spectrum: 0.7404698843602091
+favicon: null
+name: Little Piata
 opengraph:
   image: null
   type: null
@@ -18,23 +19,22 @@ collections:
 purpose: []
 color:
   saturation: 0.7902335550170392
-  lightness: 0.142820700770244
   brandStrength: 1
+  lightness: 0.142820700770244
   brandColors:
-    - '#EBE2CE'
-    - '#B39B76'
-    - '#39271F'
-    - '#0E0B0C'
-    - '#9A7754'
+    - '#F8EFE1'
+    - '#281E16'
+    - '#88421F'
+    - '#CFB3A4'
+    - '#B3CEE9'
   rhythmicContrast: 0.7694862550124526
 typography_spectrum: 0.6306493147276342
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.7404698843602091
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Little Piata
+cta:
+  bucket: null
+  version: null
+  domain: null

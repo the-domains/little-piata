@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Little Piata]]></title>
+        <description><![CDATA[Little Piata]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 01:51:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4915deb-f01f-4162-991c-741e6b2502a8.png">]]></description>
+            <link>undefinedad3a03eb-be1d-4fd1-a24a-5e869bdcbba4/index.html</link>
+            <guid isPermaLink="false">ad3a03eb-be1d-4fd1-a24a-5e869bdcbba4</guid>
+            <pubDate>Fri, 15 Jan 2016 01:51:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Little Piata]]></title>
         <description><![CDATA[Little Piata]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/little-piata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 01:51:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 01:54:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/little-piata/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00b16b69-dcf3-4da0-8fc7-30f472747473.png">]]></description>
+            <link>https://thegrid.ai/little-piata/ee8546dc-3c42-4cdf-a373-5544364e5315/index.html</link>
+            <guid isPermaLink="false">ee8546dc-3c42-4cdf-a373-5544364e5315</guid>
+            <pubDate>Fri, 15 Jan 2016 01:54:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4915deb-f01f-4162-991c-741e6b2502a8.png">]]></description>
-            <link>undefinedad3a03eb-be1d-4fd1-a24a-5e869bdcbba4/index.html</link>
+            <link>https://thegrid.ai/little-piata/ad3a03eb-be1d-4fd1-a24a-5e869bdcbba4/index.html</link>
             <guid isPermaLink="false">ad3a03eb-be1d-4fd1-a24a-5e869bdcbba4</guid>
             <pubDate>Fri, 15 Jan 2016 01:51:00 GMT</pubDate>
         </item>
